@@ -17,7 +17,7 @@ El cliente nos pide que el listado de juegos se muestre adaptado a distintos tip
  - xs = 1 columna
  - sm = 2 columnas
  - md = 3 columnas
- - >md= 4 columnas
+ - &gt; md= 4 columnas
 
 Además nos pide mejorar el aspecto de la caja que contiene cada juego y que le demos un aspecto más tipo ficha. Ahora mismo, se muestra una caja por cada juego sin un buen diseño gráfico. Nos sugiere un diseño tipo, por ejemplo, como aparecen los streamers en Twitch pero adaptado a la información con la que nosotros contamos para cada juego:
 ![Ejemplo de vista de streamer de Twitch](https://i.im.ge/2022/07/08/uknnzS.png)
