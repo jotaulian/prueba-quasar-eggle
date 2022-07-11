@@ -11,15 +11,20 @@
 // It's highly recommended to change the default colors
 // to match your app's branding.
 // Tip: Use the "Theme Builder" on Quasar's documentation website.
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap");
 
-$primary   : #34495E;
-$secondary : #26A69A;
-$accent    : #9C27B0;
+$primary: rgb(20, 20, 30);
+$secondary: #20202e;
+$accent: #ff9832;
 
-$dark      : #1D1D1D;
-$dark-page : #121212;
+$dark: #1d1d1d;
+$dark-page: #121212;
 
-$positive  : #21BA45;
-$negative  : #C10015;
-$info      : #31CCEC;
-$warning   : #F2C037;
+$positive: #21ba45;
+$negative: #c10015;
+$info: #31ccec;
+$warning: #f4d06f;
+
+$font: "IBM Plex Sans", sans-serif;
+$color-font: #cbe1eb;
+$borde-seccion: rgb(56, 56, 78);
